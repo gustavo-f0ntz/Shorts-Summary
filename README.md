@@ -78,7 +78,7 @@ Este projeto se baseia em recursos relacionados a IA, processamento de linguagem
 
 ## Agradecimentos
 
-Agradecemos à Next Level Week - Inteligência Artificial e aos instrutores por orientar o desenvolvimento deste projeto.
+Agradeço à Rocketseat Next Level Week - Inteligência Artificial e aos instrutores por orientar o desenvolvimento deste projeto.
 
 ## Histórico de Versão
 
