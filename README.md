@@ -56,7 +56,7 @@ O "Shorts Summary" oferece as seguintes funcionalidades:
 
 ![image](https://github.com/gustavo-f0ntz/Shorts-Summary/assets/72459288/4f71f29e-a155-4451-85ab-0ce1aa3bc7c5)
 
-**Resumo Colcluído! **
+**Resumo Colcluído!**
 
 ![image](https://github.com/gustavo-f0ntz/Shorts-Summary/assets/72459288/17283eee-875f-48b9-bb33-5da15d35340d)
 
