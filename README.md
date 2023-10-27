@@ -41,6 +41,29 @@ O "Shorts Summary" oferece as seguintes funcionalidades:
 
 - **Acessibilidade:** Os resumos facilitam o acesso ao conteúdo de vídeo para um público mais amplo.
 
+
+## Capturas de Tela do Projeto:
+
+**Tela Inicial**
+
+![image](https://github.com/gustavo-f0ntz/Shorts-Summary/assets/72459288/565121ea-24b1-4de8-a466-6af6763ad340)
+
+**Rodando requisição de um link shorts:**
+
+![image](https://github.com/gustavo-f0ntz/Shorts-Summary/assets/72459288/e0488a94-3772-46b9-be9a-0f71d8a76367)
+
+**Realizando o Resumo:**
+
+![image](https://github.com/gustavo-f0ntz/Shorts-Summary/assets/72459288/4f71f29e-a155-4451-85ab-0ce1aa3bc7c5)
+
+**Resumo Colcluído! **
+
+![image](https://github.com/gustavo-f0ntz/Shorts-Summary/assets/72459288/17283eee-875f-48b9-bb33-5da15d35340d)
+
+
+
+
+
 ## Contribuições
 
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto "Shorts Summary", siga as diretrizes de contribuição fornecidas no repositório do projeto.
